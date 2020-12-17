@@ -6,9 +6,9 @@ December 2020
 
 ## Background
 The American public generally has a negative view of the African continent. Portrayals of Africa in movies and news media are often focused on violent conflict, hunger, poverty, and other serious problems; one study of media outlets found that Africa was often portrayed as ‘doomed, dark, and diseased’, and the problems of one country are used to represent the whole continent.[1] 
-•	Moreover, Africa is sometimes referred to as being a ‘country’, despite containing 54 independent countries with significant diversity among them.[2]
-•	One researcher has found that Americans have very little appreciation for the extent to which Africa has industrialized and made progress.[3] 
-•	In general, Westerners are ignorant of the progress being made in the fight against poverty. One 2017 survey found that 51% of Americans thought that the percent of people worldwide living in extreme poverty had grown in the preceding two decades, when in fact it has fallen.[4] In a 2015 survey, only 6% of Americans thought that the world was, in general, getting better.[5]
+-	Moreover, Africa is sometimes referred to as being a ‘country’, despite containing 54 independent countries with significant diversity among them.[2]
+-	One researcher has found that Americans have very little appreciation for the extent to which Africa has industrialized and made progress.[3] 
+-	In general, Westerners are ignorant of the progress being made in the fight against poverty. One 2017 survey found that 51% of Americans thought that the percent of people worldwide living in extreme poverty had grown in the preceding two decades, when in fact it has fallen.[4] In a 2015 survey, only 6% of Americans thought that the world was, in general, getting better.[5]
 
 Americans could be forgiven for this view, as African countries remain global outliers on a range of development metrics. *Figure 1* shows a global map, and it allows users to change the metric being shown. Africa is particularly noteworthy for poor scores in access to electricity, child mortality, and adolescent fertility.
 
