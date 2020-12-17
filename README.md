@@ -12,7 +12,8 @@ The American public generally has a negative view of the African continent. Port
 
 Americans could be forgiven for this view, as African countries remain global outliers on a range of development metrics. *Figure 1* shows a global map, and it allows users to change the metric being shown. Africa is particularly noteworthy for poor scores in access to electricity, child mortality, and adolescent fertility.
 
- 
+<iframe src=" https://public.tableau.com/views/DVProject12_17/Figure1?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '450' ></iframe>
+ https://public.tableau.com/views/DVProject12_17/Figure1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 
 However, this view of African countries is often overly negative and oversimplified, and Americans’ understanding (or lack thereof) of the African content matters because it shapes policy responses to events there.
