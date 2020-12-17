@@ -9,7 +9,7 @@ The American public generally has a negative view of the African continent. Port
 
 Americans could be forgiven for this view, as African countries remain global outliers on a range of development metrics. *Figure 1* shows a global map, and it allows users to change the metric being shown. Africa is particularly noteworthy for poor scores in access to electricity, child mortality, and adolescent fertility.
 
-<iframe src=" https://public.tableau.com/views/DVProject12_17/Figure1?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '900' height = '600' ></iframe>
+<iframe src=" https://public.tableau.com/views/DVProject12_17/Figure1?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1100' height = '600' ></iframe>
 
 
 However, this view of African countries is often overly negative and oversimplified, and Americans’ understanding (or lack thereof) of the African content matters because it shapes policy responses to events there.
@@ -21,7 +21,7 @@ So, let’s take some time to 1) appreciate the progress that African countries 
 
 *Figure 2* shows a map of how democratic each African country is, with -10 being fully autocratic and +10 being fully democratic. These numbers are from the Polity Project from the Center for Systemic Peace.[8]  South Africa and Kenya each have a score of 9, making them slightly higher than the United States, which only scored an 8 in recent years. Other countries remain deeply undemocratic, including Eritrea, Egypt, and Cameroon. Hovering over each country on the map reveals its history of democracy since the late 1990s. On the right side of Figure 2 we see a line chart that charts the average democracy score on the continent, which has been rising consistently.
 
-<iframe src=" https://public.tableau.com/views/DVProject12_17_Figure2/PolityDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '900' height = '1200' ></iframe>
+<iframe src=" https://public.tableau.com/views/DVProject12_17_Figure2/PolityDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1100' height = '1200' ></iframe>
 
 *Figure 3* repeats the structure of the previous graphic, but this time works to challenge our assumptions of Africa as a war-torn continent, and it focuses on fatalities from conflict, as gathered by the ACLED project (see appendix). This map’s coloring shows the total conflict fatalities in these countries from 1997 to the present, and serves to show the diversity of outcomes; hovering over a country shows annual fatalities over time.
 -	The worst conflict in recent history was in Angola, which has in total suffered around 144,000 deaths; however, these were heavily concentrated in the 1999 and 2000.
@@ -32,7 +32,7 @@ So, let’s take some time to 1) appreciate the progress that African countries 
 
 *Figure 4* shows the incredible progress that African countries have made in health and development in recent years. The user can animate the figure to move by year, and it shows African countries’ reductions in child mortality (on the horizontal axis) and adolescent fertility (on the vertical axis). The coloring of different sub-regions also show the significant variation, with North African countries having the best health metrics.
  
- <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure4/DevelopmentDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '650' ></iframe> 
+ <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure4/DevelopmentDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '850' height = '650' ></iframe> 
 
 
 Appendix: Description of data sources and transformations/ technology used
