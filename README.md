@@ -32,23 +32,16 @@ So, let’s take some time to 1) appreciate the progress that African countries 
 
 *Figure 4* shows the incredible progress that African countries have made in health and development in recent years. The user can animate the figure to move by year, and it shows African countries’ reductions in child mortality (on the horizontal axis) and adolescent fertility (on the vertical axis). The coloring of different sub-regions also show the significant variation, with North African countries having the best health metrics.
  
- <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure4/DevelopmentDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '850' height = '650' ></iframe> 
+ <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure4/DevelopmentDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1000' height = '650' ></iframe> 
 
 
 Appendix: Description of data sources and transformations/ technology used
 Data Sources: 
-*ACLED*: The first data source for this visualization is ACLED, which uses news reports to track major events around the world.[9] I am using a subset of the data for Africa, which has complete coverage from 1997 to the present. I summed counts of conflict fatalities in each country-year. Because ACLED relies on news sources to gather their conflict information, this can result in imperfect coverage of conflict information.
+*ACLED*: The first data source for this visualization is ACLED, which uses news reports to track major events around the world.[9] I am using a subset of the data for Africa, which has complete coverage from 1997 to the present. I summed counts of conflict fatalities in each country-year. 
 
-*World Bank*: I used a number of development indicators from the World Bank to show progress on metrics around health, development, and prosperity.[10] Most of these data have significant missingness in early years (the data begins in 1960). For the most recent year of data (2018), there are some variables with missing values, including GDP per capita (11% missing), child mortality (9%), life expectancy (8%), and adolescent fertility (9%).
+*World Bank*: I used a number of development indicators from the World Bank to show progress on metrics around health, development, and prosperity.[10] 
 
-*Polity Scores*: I acquired data on the democratic nature of countries from the Polity Project, published by the NGO Center for Systemic Peace[11]. They give a democracy score of -10 (full authoritarian) to +10 (full democracy) to every major country from 1800 through 2018. The goal with this dataset is to show the great diversity of democratic outcomes in Africa, and improvements and changes over time. The polity score has a missingness in 2018 observations of just .6%, and is present for all African countries.
-
-*Transformations & Technologies*: The data wrangling for this visual was done using Python, primarily the Pandas package. The visual was created using Tableau. Python code is attached for review. The main steps of transformation were: 
--	Reading in all of the datasets from ACLED, the World Bank, and the polity scores.
--	For the ACLED data, I summed observations by the country-year, and kept counts of total events (which included battles, riots, protests, etc.), counts of battles or violence against civilians, and a count of total fatalities.
--	For the World Bank data, I created a log of GDP, to facilitate easier visualization in Tableau. Especially when showing GDP per capita in the whole world, logged variables better show the variation on the lower scale, where most of Africa is.
--	I combined the three datasets based on the year-country, using a three-letter country code. The Polity data contained a different three letter country code, requiring some fixing before it could be merged. I also had to correct a country name to one that Tableau would recognize.
-
+*Polity Scores*: I acquired data on the democratic nature of countries from the Polity Project, published by the NGO Center for Systemic Peace[11]. They give a democracy score of -10 (full authoritarian) to +10 (full democracy) to every major country from 1800 through 2018. The goal with this dataset is to show the great diversity of democratic outcomes in Africa, and improvements and changes over time.
 
 *Bibliography*
 1.	Nareissa Smith. “Why the global perception of Africa should matter to African Americans.” Atlanta Black Star. January 2018. https://atlantablackstar.com/2018/01/23/global-perception-africa-matter-african-americans/ 
