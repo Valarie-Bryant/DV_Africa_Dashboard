@@ -1,9 +1,6 @@
 ## Visualizing African Progress
 December 2020
 
-
-<iframe src="https://public.tableau.com/views/IRIS_16078811409990/Sheet1?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '450' ></iframe>
-
 ## Background
 The American public generally has a negative view of the African continent. Portrayals of Africa in movies and news media are often focused on violent conflict, hunger, poverty, and other serious problems; one study of media outlets found that Africa was often portrayed as ‘doomed, dark, and diseased’, and the problems of one country are used to represent the whole continent.[1] 
 -	Moreover, Africa is sometimes referred to as being a ‘country’, despite containing 54 independent countries with significant diversity among them.[2]
@@ -12,7 +9,7 @@ The American public generally has a negative view of the African continent. Port
 
 Americans could be forgiven for this view, as African countries remain global outliers on a range of development metrics. *Figure 1* shows a global map, and it allows users to change the metric being shown. Africa is particularly noteworthy for poor scores in access to electricity, child mortality, and adolescent fertility.
 
-<iframe src=" https://public.tableau.com/views/DVProject12_17/Figure1?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '450' ></iframe>
+<iframe src=" https://public.tableau.com/views/DVProject12_17/Figure1?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1000' height = '600' ></iframe>
 
 
 However, this view of African countries is often overly negative and oversimplified, and Americans’ understanding (or lack thereof) of the African content matters because it shapes policy responses to events there.
@@ -26,15 +23,12 @@ So, let’s take some time to 1) appreciate the progress that African countries 
 
 <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure2/PolityDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '450' ></iframe>
 
-https://public.tableau.com/views/DVProject12_17_Figure2/PolityDash?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-
 *Figure 3* repeats the structure of the previous graphic, but this time works to challenge our assumptions of Africa as a war-torn continent, and it focuses on fatalities from conflict, as gathered by the ACLED project (see appendix). This map’s coloring shows the total conflict fatalities in these countries from 1997 to the present, and serves to show the diversity of outcomes; hovering over a country shows annual fatalities over time.
 -	The worst conflict in recent history was in Angola, which has in total suffered around 144,000 deaths; however, these were heavily concentrated in the 1999 and 2000.
 -	Some countries have been basically conflict-free, particularly in Southern Africa. Botswana has recorded just 10 fatalities from violence or unrest in the last 24 years.
 -	Overall, conflict levels in Africa were highest in the late 1990s and have been lower, but steady, since.
 
- 
-
+ <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure3/FatalityDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '450' ></iframe>
 
 *Figure 4* shows the incredible progress that African countries have made in health and development in recent years. The user can animate the figure to move by year, and it shows African countries’ reductions in child mortality (on the horizontal axis) and adolescent fertility (on the vertical axis). The coloring of different sub-regions also show the significant variation, with North African countries having the best health metrics.
  
