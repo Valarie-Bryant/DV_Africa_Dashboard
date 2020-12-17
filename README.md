@@ -28,7 +28,7 @@ So, let’s take some time to 1) appreciate the progress that African countries 
 -	Some countries have been basically conflict-free, particularly in Southern Africa. Botswana has recorded just 10 fatalities from violence or unrest in the last 24 years.
 -	Overall, conflict levels in Africa were highest in the late 1990s and have been lower, but steady, since.
 
- <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure3/FatalityDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '650' height = '1200' ></iframe>
+ <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure3/FatalityDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1200' height = '1200' ></iframe>
 
 *Figure 4* shows the incredible progress that African countries have made in health and development in recent years. The user can animate the figure to move by year, and it shows African countries’ reductions in child mortality (on the horizontal axis) and adolescent fertility (on the vertical axis). The coloring of different sub-regions also show the significant variation, with North African countries having the best health metrics.
  
