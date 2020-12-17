@@ -32,10 +32,10 @@ So, let’s take some time to 1) appreciate the progress that African countries 
 
 *Figure 4* shows the incredible progress that African countries have made in health and development in recent years. The user can animate the figure to move by year, and it shows African countries’ reductions in child mortality (on the horizontal axis) and adolescent fertility (on the vertical axis). The coloring of different sub-regions also show the significant variation, with North African countries having the best health metrics.
  
- <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure4/DevelopmentDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1000' height = '650' ></iframe> 
+ <iframe src=" https://public.tableau.com/views/DVProject12_17_Figure4/DevelopmentDash?:embed=yes&:language=en&:display_count=yes&:showVizHome=no" width = '1100' height = '900' ></iframe> 
 
 
-Appendix: Description of data sources and transformations/ technology used
+### Appendix:
 Data Sources: 
 *ACLED*: The first data source for this visualization is ACLED, which uses news reports to track major events around the world.[9] I am using a subset of the data for Africa, which has complete coverage from 1997 to the present. I summed counts of conflict fatalities in each country-year. 
 
